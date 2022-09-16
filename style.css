@@ -10,7 +10,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: wheat;
+    background-color: hsl(30, 38%, 92%);
 }
 .product{
     width: 550px;
